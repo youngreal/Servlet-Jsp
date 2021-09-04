@@ -1,2 +1,2 @@
 # Servlet
- Servlet에 대한 이해높이기
+ Servlet&Jsp 웹 프로그래밍 책을 보고 공부
